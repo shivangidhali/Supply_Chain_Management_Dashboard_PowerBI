@@ -1,12 +1,15 @@
 # Supply_Chain_Management_Dashboard_PowerBI
 A supply chain analytics dashboard covering sourcing, manufacturing, Sales, and logistic insights.
 This project visulizes the supply chain process for makeup products, and help me to improve my analyzing and visulaization skills
+
 📌Project Objective:
 Understand products performance, sales, manufacturing, tranportation and analyze total costs, total revenue, defect rates, stock levels, products quantity, and lead time etc.
+
 🔍 Tool used-
-Power BI
-Excel 
+Power BI,
+Excel,
 DAX Measures 
+
 📊 Key Insights-
 Top revenue generated carriers : Carriers B
 Top defect rates products : Skincare products
