@@ -19,14 +19,24 @@ The Goal of this project: Analyze and Understand products performance, sales, ma
 
 ## Key Insights:
 **Top revenue generated carriers:** Carriers B
+
 **Top defect rates products:** Skincare products
+
 **Top defect rates by Tranportation:** Road and Rail
+
 **less quantity saling products:** Cosmetics 
+
 **Top tranportation modes by costs:** Road and rail
+
 **Highest shipping cost's shipping carrier:** Carrier B
+
 **Lowest revenue generated SKU:** SKU 59, SKU 86, SKU 78
+
 **Lowest stock level SKU:** SKU 33, SKU 24, SKU 87
+
 **Highest order quantity SKU:** SKU 0, SKU 90, SKU 33, SKU 19
+
 **Highest manufacturing cost Product category:** Skincare products
+
 **Longest lead time Product category:** Haircare
 
