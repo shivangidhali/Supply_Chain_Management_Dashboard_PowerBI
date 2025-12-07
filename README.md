@@ -5,7 +5,7 @@ This project visulizes the supply chain process for makeup products, and help me
 ## Objective:
 The Goal of this project: Analyze and Understand products performance, sales, manufacturing, tranportation and analyze total costs, total revenue, defect rates, stock levels, products quantity, and lead time etc.
 ## Problem Statment:
-  - Analyze Which Carrier is genrating the highest revenue?
+  - Analyze Which Carrier is genrating the lowest revenue?
   - Which product category has the highest defect rates?
   - Which transportation mode shows a highest defect rate?
   - Which product category is generating the lowest sales quantity and needs attention?
@@ -17,8 +17,8 @@ The Goal of this project: Analyze and Understand products performance, sales, ma
   - Which product category has the highest manufacturing cost?
   - Which product category has the longest lead time cousing delivery delays?
 
-## Key Insights:
-**Top revenue generated carriers:** Carriers B
+## Key Findings and Insights:
+**Lowest revenue generated carriers:** Carriers A
 
 **Top defect rates products:** Skincare products
 
@@ -39,4 +39,26 @@ The Goal of this project: Analyze and Understand products performance, sales, ma
 **Highest manufacturing cost Product category:** Skincare products
 
 **Longest lead time Product category:** Haircare
+
+## Recommendation:
+1- Focus on low-revenue carrier(Carrier A)
+
+Carrier A's low revenue contribution indicates poor performance. The company should review their service quality, reduce dependancy on them, and consider cost negotiations or switching to more reliable carriers like Carrier B.
+
+2- Reduce manufacturing cost for Skincare products
+
+Implement cost optimization strategies such as supplier negotiation and production effciency improvment. 
+
+3- Improve delivery efficiency for Haircare products
+
+Haircare has the highest lead time, optimize logistic planning, reduce bottlenecks in supply chain, and increase stock levels in advance. 
+
+
+
+
+
+
+
+
+
 
